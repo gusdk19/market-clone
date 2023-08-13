@@ -7,7 +7,7 @@ const firebaseConfig = {
   apiKey: import.meta.env.VITE_APP_KEY,
   authDomain: import.meta.env.VITE_AUTH_DIMAIN,
   databaseURL: import.meta.env.VITE_DB_URL,
-  projectId: import.meta.env.VITE_PROJECT_ID,
+  projectId: import.meta.env.VITE_PROJECT,
   storageBucket: import.meta.env.VITE_STORAGE_BUCKET,
   messagingSenderId: import.meta.env.VITE_MESSAGE_ID,
   appId: import.meta.env.VITE_APP_ID,
